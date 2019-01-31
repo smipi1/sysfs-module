@@ -1,0 +1,7 @@
+/*.ko
+/*.o
+/.settings/
+/.tmp_versions/
+/.*.cmd
+/*.mod.c
+
